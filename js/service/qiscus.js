@@ -3,7 +3,7 @@
 define(['service/emitter'], function (emitter) {
   var qiscus = new QiscusSDKCore()
 
-  const appId = 'sdksample'
+  const appId = 'motoranch-e0lhwnyx0t4'
 
   qiscus.init({
     AppId: appId,
